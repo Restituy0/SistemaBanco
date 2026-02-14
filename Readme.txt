@@ -13,3 +13,10 @@ Proyecto de Aseguramiento de la Calidad del Software.
 - Transferencia con saldo insuficiente
 - Monto inválido
 
+## Ejecución
+
+"En terminal"
+dotnet test
+
+"En UnitTest.cs"
+Clic en los botones indicados al abrir.
