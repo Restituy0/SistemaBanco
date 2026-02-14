@@ -1,0 +1,11 @@
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\bin\Debug\net10.0\BancoApp.deps.json
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\bin\Debug\net10.0\BancoApp.dll
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\bin\Debug\net10.0\BancoApp.pdb
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\obj\Debug\net10.0\BancoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\obj\Debug\net10.0\BancoApp.AssemblyInfoInputs.cache
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\obj\Debug\net10.0\BancoApp.AssemblyInfo.cs
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\obj\Debug\net10.0\BancoApp.csproj.CoreCompileInputs.cache
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\obj\Debug\net10.0\BancoApp.dll
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\obj\Debug\net10.0\refint\BancoApp.dll
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\obj\Debug\net10.0\BancoApp.pdb
+D:\Estudio\UNIBE\Semestre 2\Aseguramiento a la Calidad del Software\Semana 6\Prueba Unitaria\SistemaBanco\BancoApp\obj\Debug\net10.0\ref\BancoApp.dll
